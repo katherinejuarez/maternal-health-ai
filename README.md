@@ -1,4 +1,5 @@
 # maternal-health-ai
+Authors: Shaan Chopra & Katherine Juarez
 Code for final project for CSE 573 - Artifical Intelligence
 
 Files:
